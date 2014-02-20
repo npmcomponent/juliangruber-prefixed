@@ -1,21 +1,16 @@
 {
-  "name" : "prefixed",
-  "description" : "CSS vendor prefix helpers",
-  "version" : "0.1.0",
-  "repository" : {
-    "type" : "git",
-    "url" : "git://github.com/juliangruber/prefixed.git"
-  },
-  "homepage": "https://github.com/juliangruber/prefixed",
-  "main" : "index.js",
-  "scripts" : {},
-  "dependencies" : {},
-  "devDependencies" : {},
-  "keywords": ["css","vendor","prefix","browserify","browser"],
-  "author": {
-    "name": "Julian Gruber",
-    "email": "mail@juliangruber.com",
-    "url": "http://juliangruber.com"
-  },
+  "name": "juliangruber-prefixed",
+  "description": "CSS vendor prefix helpers",
+  "version": "0.1.0",
+  "keywords": [
+    "css",
+    "vendor",
+    "prefix",
+    "browserify",
+    "component",
+    "browser"
+  ],
+  "main": "index.js",
+  "dependencies": {},
   "license": "MIT"
 }
